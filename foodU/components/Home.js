@@ -48,7 +48,7 @@ export default Home = ({ navigation }) => {
         </View>
       </View>
     );
-  };
+  };    
 
   return (
     <View style={styles.container}>
